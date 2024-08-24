@@ -1,2 +1,2 @@
 # CryptoClustering
-![Background Image](images/matrixBG.png)
+![Background Image](images/matrix.png)
