@@ -1,10 +1,10 @@
 
-# ¢rypto ¢lustering Analysis
+# ¢rypto ¢lustering ₳nalysis
 ![Crypt Analysis Logo](/images/readme_img.png)
 
-# Overview
+# ௹verview
 This is a 100
-# Installation
+# ₺nstallation
 This is a Jupyter Notebook, which is the recommended IDE for this program. 
 Step 1. Clone this repository `git clone https://github.com/ncmoliver/CryptoClustering.git`    
 Step 2. In your terminal, change directory to the `CryptoClustering` project folder.      
