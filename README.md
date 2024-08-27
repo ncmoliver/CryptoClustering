@@ -1,6 +1,6 @@
 
 # ¢rypto ¢lustering Analysis
-![Crypt Analysis Logo](images/readme_img.png)
+![Crypt Analysis Logo](/images/readme_img.png)
 
 # Overview
 This is a 100
