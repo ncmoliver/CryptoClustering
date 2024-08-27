@@ -1,4 +1,5 @@
 <div style="background-color: lightblue; padding: 10px;">
-  <h1>Crypto Clustering</h1>
-  <p>This is some content with a light blue background.</p>
+
+# Crypto Analysis
+This is a test for a light blue background.
 </div>
