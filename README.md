@@ -7,6 +7,12 @@ This project involves analyzing cryptocurrency market data using two approaches:
 1. The Original Dataframe
 2. After Applying PCA     
 The main goal was to determine the best number to use as the number of clusters (k) for both the original and PCA transformed dataset, using the elbow method and then performing KMeans clustering based on the recommended value for k. The analysis revealed differences in the optimal number of clusters when comparing the two sets of data.
+# ₣iles ₺n ₸his řepository
+* 'Crypto_Clustering.ipynb': The Python script used to perform PCA, Standardscaler, and Kmeans clustering.   
+* 'orignal_elbow_curve.png': The elbow curve plot for the orignal datframe. 
+* 'PCA_elbow_curve.png': The elbow curve for the PCA tranformed data.   
+* 'orignal_k_cluster.png': The resulting clustering from the KMeans applied to the original data.    
+* PCA_k_cluster.png': The resulting clusters from KMeans applied to the PCA tranformed data.
 # ₺nstallation
 This is a Jupyter Notebook, which is the recommended IDE for this program. 
 
@@ -35,4 +41,5 @@ This is a Jupyter Notebook, which is the recommended IDE for this program.
 **PCA3:** The largest amount of variance in PCA3 data was heavily influenced by 7 day price change.
 
 # 𝖗esults
-The clustering showed 8 dis
+The original data elbow curve recommended k=6 resulting in 6 distinct clusters. The clusters reflect patterns based on the full original dataset. Where after applying PCA the elbow curve suggested k=8. This clustering approach focused on the 
+
