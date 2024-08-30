@@ -41,7 +41,7 @@ This is a Jupyter Notebook, which is the recommended IDE for this program.
 **PCA3:** The largest amount of variance in PCA3 data was heavily influenced by 7 day price change.
 
 # 𝖗esults
-The original data elbow curve recommended k=6 resulting in 6 distinct clusters. The clusters reflect patterns based on the full original dataset. Where after applying PCA the elbow curve suggested k=8. This clustering approach focused on the 
+The original data elbow curve recommended k=6 resulting in 6 distinct clusters. The clusters reflect patterns based on the full original dataset. Where after applying PCA the elbow curve suggested k=8.
 
 # Ŗeferences
 
