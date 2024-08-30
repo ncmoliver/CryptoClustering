@@ -43,3 +43,6 @@ This is a Jupyter Notebook, which is the recommended IDE for this program.
 # 𝖗esults
 The original data elbow curve recommended k=6 resulting in 6 distinct clusters. The clusters reflect patterns based on the full original dataset. Where after applying PCA the elbow curve suggested k=8. This clustering approach focused on the 
 
+# Ŗeferences
+![Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)    
+![UNC Bootcamp Classwork Assignments]
