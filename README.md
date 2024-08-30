@@ -34,5 +34,5 @@ This is a Jupyter Notebook, which is the recommended IDE for this program.
 **PCA2** The largest amount of variance in PCA2 data was heavily influence by the 30 day price change.
 **PCA3:** The largest amount of variance in PCA3 data was heavily influenced by 7 day price change.
 
-# Resultss
+# 𝖗esults
 The clustering showed 8 dis
