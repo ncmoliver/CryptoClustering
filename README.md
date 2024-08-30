@@ -17,7 +17,7 @@ Step 3. Ensure you have the following Python Libraries installed:
 - sklearn
   - KMeans
   - PCA
-  - StandardScaler
+  - StandardScaler    
 Step 4. Using the terminal, inside of your project folder enter the following commands:  
 - `pip install pandas scikit-learn`
 - `pip install -r requirements.txt`
