@@ -16,29 +16,9 @@ This is a Jupyter Notebook, which is the recommended IDE for this program.
 | Step 2 | In your terminal, change directory to the `CryptoClustering` project folder.  |
 | Step 2 (example command) | ` cd CryptoClustering` |
 | Step 3 | Pandas, sklearn (KMeans, PCA, StandardScaler) |
-| Step 3 (example command) | Text |
-| Paragraph | Text |
-| Paragraph | Text |
-| Paragraph | Text |
-| Paragraph | Text |
-| Paragraph | Text |
-| Paragraph | Text |
+| Step 3 (example command) | `pip install -r requirements.txt` |
+| Step 4 | Run the program and Enjoy ⭐️ |
 
-
-Step 1. Clone this repository `git clone https://github.com/ncmoliver/CryptoClustering.git`    
-Step 2. In your terminal, change directory to the `CryptoClustering` project folder.      
-` cd CryptoClustering`    
-Step 3. Ensure you have the following Python Libraries installed:    
-- Pandas
-- sklearn
-  - KMeans
-  - PCA
-  - StandardScaler    
-
-Step 4. Using the terminal, inside of your project folder enter the following commands:  
-- `pip install pandas scikit-learn`
-- `pip install -r requirements.txt`
-Step 5. Run the program and Enjoy ⭐️
 # ₩orkflow
 ### 1. Data Preprocessing
 **Original Data:** The raw cryptocurrency data was cleaned and preprocessed. This includes handling missing values and standardizing the features (columns) to ensure a fair comparison.
