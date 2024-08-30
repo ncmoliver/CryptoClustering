@@ -9,6 +9,23 @@ This project involves analyzing cryptocurrency market data using two approaches:
 The main goal was to determine the best number to use as the number of clusters (k) for both the original and PCA transformed dataset, using the elbow method and then performing KMeans clustering based on the recommended value for k. The analysis revealed differences in the optimal number of clusters when comparing the two sets of data.
 # ₺nstallation
 This is a Jupyter Notebook, which is the recommended IDE for this program. 
+
+| Installation Step | Description |
+| ----------- | ----------- |
+| Step 1 | Clone this repository `git clone https://github.com/ncmoliver/CryptoClustering.git` |
+| Step 2 | In your terminal, change directory to the `CryptoClustering` project folder.      
+` cd CryptoClustering` |
+| Paragraph | Text |
+| Paragraph | Text |
+| Paragraph | Text |
+| Paragraph | Text |
+| Paragraph | Text |
+| Paragraph | Text |
+| Paragraph | Text |
+| Paragraph | Text |
+| Paragraph | Text |
+
+
 Step 1. Clone this repository `git clone https://github.com/ncmoliver/CryptoClustering.git`    
 Step 2. In your terminal, change directory to the `CryptoClustering` project folder.      
 ` cd CryptoClustering`    
