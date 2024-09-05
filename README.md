@@ -6,7 +6,7 @@
 This project involves analyzing cryptocurrency market data using two approaches:   
 1. The Original Dataframe
 2. After Applying PCA     
-The main goal was to determine the best number to use as the number of clusters (k) for both the original and PCA transformed dataset, using the elbow method and then performing KMeans clustering based on the recommended value for k. The analysis revealed differences in the optimal number of clusters when comparing the two sets of data.
+The main goal was to determine the best number to use as the number of clusters (k) for both the original and PCA transformed dataset, using the elbow method and then performing KMeans clustering based on the recommended value for k. The analysis revealed the same results in the suggested optimal number of clusters when comparing the two sets of data.
 # ₣iles ₺n ₸his řepository
 * ***'Crypto_Clustering.ipynb'***: The Python script used to perform PCA, Standardscaler, and Kmeans clustering.   
 * ***'orignal_elbow_curve.png'***: The elbow curve plot for the orignal datframe. 
@@ -30,8 +30,8 @@ This is a Jupyter Notebook, which is the recommended IDE for this program.
 **Original Data:** The raw cryptocurrency data was cleaned and preprocessed. This includes handling missing values and standardizing the features (columns) to ensure a fair comparison.
 **PCA Transformed Data** The data was transformed using PCA to reduce dimensionality. The first three principal components (PCA1, PCA2, PCA3) were used for further analysis. PCA helped capture the most significant patterns in the data with minimal loss of information. 
 ### 2. Elbow Curve Analysis
-**Original Data** The elbow curve found the optimal number for k to be 6, which indicates that the orignal data groups best into 6 clusters.
-**PCA Transformed Data** The elbow curve found the optimal number of k to be 8.    
+**Original Data** The elbow curve found the optimal number for k to be 4, which indicates that the orignal data groups best into 6 clusters.
+**PCA Transformed Data** The elbow curve also found the optimal number of k to be 4.    
 ### 3. KMeans Clustering
 **Original Data** KMeans was applied to the original data with k=6. The resulting clusters grouped the cryptocurrencies based on similar patters across the original features (columns).    
 **PCA Data** KMeans was also applied to the PCA-transformed data with k=8. This provided a different perspective clustering data based on the most significant principal components from the original data. 
@@ -41,7 +41,7 @@ This is a Jupyter Notebook, which is the recommended IDE for this program.
 **PCA3:** The largest amount of variance in PCA3 data was heavily influenced by 7 day price change.
 
 # 𝖗esults
-The original data elbow curve recommended k=6 resulting in 6 distinct clusters. The clusters reflect patterns based on the full original dataset. Where after applying PCA the elbow curve suggested k=8.
+The original data elbow curve recommended k=4 resulting in 4 distinct clusters. The clusters reflect patterns based on the original dataset. Where after applying PCA the elbow curve also suggested k=4, reflecting the tranformed PCA dataset.
 
 # Ŗeferences
 
